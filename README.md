@@ -13,8 +13,10 @@ Before using, make sure ffmpeg is installed otherwise conversions may create pro
 
 .•As voice search technology has leaped forward in recent years , the way many of us search
 online is changing .
+
 •When we want to search for a particular word in a long durational video , our model takes voice
 input and searches the word in the video and gives required time stamps.
+
 •We can select the timestamp and the video plays from the selected timestamp.
 
 
