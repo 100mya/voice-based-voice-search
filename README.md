@@ -1,4 +1,4 @@
-## voice-based-voice-search
+# voice-based-voice-search
 
 
 Voice based voice search in a video where the user is allowed to browse and select a video file and give a phrase or word as vice input for search.
@@ -8,7 +8,7 @@ Before using, make sure ffmpeg is installed otherwise conversions may create pro
 
 
 
-# Introduction
+## Introduction
 
 
 .•As voice search technology has leaped forward in recent years , the way many of us search
@@ -19,7 +19,7 @@ input and searches the word in the video and gives required time stamps.
 
 
 
-# Growth in Voice SearchingMethodology / Model Used
+## Methodology / Model Used
 
 
 The project is designed as per the task that takes voice input from the user, also it allows the user to
@@ -44,15 +44,7 @@ part of the video in which the user is interested instead of watching the entire
 
 
 
-# Annual Update
-
-
-As you can see that the market of voice search is increasing rapidly and people from all age groups are
-preferring voice search over text search especially youngsters.
-
-
-
-# Results Archived
+## Results Archived
 
 
 •For every voice input we get timestamps of the word or sentence searched by the user and the video
@@ -66,7 +58,8 @@ plays from the time selected by the user.
 
 
 
-# Conclusion
+## Conclusion
+
 •The proposed model takes voice input for a video and gives the time stamps to the user. Then the
 video will play from the time selected by the user.
 
@@ -77,7 +70,7 @@ time.
 
 
 
-# Links
+## Links
 
 
 YouTube link: https://youtu.be/w0bQFJeSBus
@@ -87,7 +80,7 @@ https://drive.google.com/file/d/1X5Zp3Yl5I0iuE1Tzql9zWUDZ9JZRt3gF/view?usp=shari
 
 
 
-#References
+## References
 
 
 ❏ Hurst-Hiller, O., & Farago, J. (2010). U.S. Patent No. 7,672,931. Washington,
